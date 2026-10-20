@@ -1,0 +1,10 @@
+.vs/
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.db
+report.docx
+report.xlsx
